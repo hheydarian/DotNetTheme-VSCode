@@ -1,0 +1,21 @@
+{
+  "name": "dotnettheme",
+  "displayName": "dotnettheme",
+  "description": "Beautiful and modern themes for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DotNetTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DotNetTheme-color-theme.json"
+      }
+    ]
+  }
+}
