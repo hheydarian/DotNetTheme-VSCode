@@ -1,0 +1,78 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "type": "dark",
+    "name": "Persian Gulf dt",
+    "colors": {
+        "editor.background": "#0d1b2a", // آبی نفتی خیلی تیره (آرامش‌بخش)
+        "editor.foreground": "#e0f7ff", // فونت اصلی سفید آبی
+        "activityBar.background": "#112d4e",
+        "activityBar.foreground": "#ffffff",
+        "activityBarBadge.background": "#3c91e6",
+        "sideBar.background": "#0f253f",
+        "sideBar.foreground": "#e0f7ff",
+        "titleBar.activeBackground": "#112d4e",
+        "titleBar.activeForeground": "#ffffff",
+        "statusBar.background": "#0b1f3a",
+        "statusBar.foreground": "#ffffff",
+        "button.background": "#1c92d2",
+        "button.foreground": "#ffffff",
+        "editorCursor.foreground": "#00bcd4",
+        "terminal.foreground": "#e0f7ff",
+        "terminal.ansiBlue": "#2196f3",
+        "terminal.ansiCyan": "#00bcd4",
+        "terminal.ansiGreen": "#81c784",
+        "terminal.ansiMagenta": "#ba68c8",
+        "terminal.ansiRed": "#e57373",
+        "terminal.ansiYellow": "#fff176",
+        "tab.activeBackground": "#0d1b2a",
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveBackground": "#1a2c44",
+        "tab.inactiveForeground": "#9ebcd2"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#7eaac7",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": ["keyword", "storage"],
+            "settings": {
+                "foreground": "#64b5f6",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": ["string", "constant.other.symbol"],
+            "settings": {
+                "foreground": "#b2ebf2"
+            }
+        },
+        {
+            "scope": ["variable", "meta.definition.variable.name"],
+            "settings": {
+                "foreground": "#ffffff"
+            }
+        },
+        {
+            "scope": ["entity.name.tag", "support.class.component"],
+            "settings": {
+                "foreground": "#4fc3f7"
+            }
+        },
+        {
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "foreground": "#fbc02d"
+            }
+        },
+        {
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#ffb74d"
+            }
+        }
+    ]
+}
