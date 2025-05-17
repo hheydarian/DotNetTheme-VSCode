@@ -1,15 +1,37 @@
 {
     "name": "dotnettheme",
-    "displayName": "DotNetTheme",
-    "description": "Beautiful and modern themes for Visual Studio Code",
+    "displayName": "DotNet Theme Pack",
+    "description": "A beautifully curated collection of modern, elegant and developer-friendly themes. Featuring Persian Gulf inspired colors and more.",
     "version": "1.0.0",
     "publisher": "Hamed Heydarian",
     "engines": {
         "vscode": "^1.100.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hheydarian/DotNetTheme-VSCode"
+    },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark",
+        "light",
+        "blue",
+        "persian",
+        "ocean",
+        "beautiful",
+        "modern",
+        "dotnet",
+        "iran",
+        "gulf"
+    ],
+    "icon": "icone/logo.png",
+    "galleryBanner": {
+        "color": "#0d1b2a",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
