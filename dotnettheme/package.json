@@ -1,9 +1,9 @@
 {
-    "name": "dotnettheme",
-    "displayName": "DotNet Theme Pack",
+    "name": "dotnettheme-vscode",
+    "displayName": "dotnetthemevs",
     "description": "A beautifully curated collection of modern, elegant and developer-friendly themes. Featuring Persian Gulf inspired colors and more.",
-    "version": "1.0.0",
-    "publisher": "Hamed Heydarian",
+    "version": "1.0.6",
+    "publisher": "HamedHeydarian",
     "engines": {
         "vscode": "^1.100.0"
     },
