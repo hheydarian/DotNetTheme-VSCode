@@ -1,3 +1,12 @@
+
+
+[![License](https://img.shields.io/github/license/hheydarian/DotNetTheme-VSCode)](https://github.com/hheydarian/DotNetTheme-VSCode/blob/main/LICENSE)
+[![Marketplace](https://img.shields.io/badge/Marketplace-DotNetTheme--VSCode-blueviolet?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=HamedHeydarian.dotnettheme-vscode)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/HamedHeydarian.dotnettheme-vscode?label=version)](https://marketplace.visualstudio.com/items?itemName=HamedHeydarian.dotnettheme-vscode)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/HamedHeydarian.dotnettheme-vscode?label=downloads)](https://marketplace.visualstudio.com/items?itemName=HamedHeydarian.dotnettheme-vscode)
+[![Repo Size](https://img.shields.io/github/repo-size/hheydarian/DotNetTheme-VSCode)](https://github.com/hheydarian/DotNetTheme-VSCode)
+
+
 # DotNetTheme
 
 **DotNetTheme** is a Visual Studio Code extension that brings a fresh and modern color scheme inspired by the .NET ecosystem.  
