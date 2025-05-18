@@ -1,6 +1,6 @@
-# DotNETTheme
+# DotNetTheme
 
-**DotNET Theme** is a Visual Studio Code extension that brings a fresh and modern color scheme inspired by the .NET ecosystem.  
+**DotNetTheme** is a Visual Studio Code extension that brings a fresh and modern color scheme inspired by the .NET ecosystem.  
 This extension changes the overall look and feel of Visual Studio, making your coding environment more visually pleasant and motivating.
 **Please give me a star on GitHub.😍💖**
 
@@ -10,6 +10,8 @@ This extension changes the overall look and feel of Visual Studio, making your c
 - ✅Improves focus and reduces eye strain during long coding sessions.
 - ✅Easy to switch between this theme and others inside Visual Studio.
 
+## 📦 Installation
+You can install **DotNET Theme** directly from the Visual Studio [Marketplace](https://marketplace.visualstudio.com/items?itemName=HamedHeydarian.dotnettheme-vscode).
 
 ## 🌈Themes
 - **Milkshake Blueberry dt**
